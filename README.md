@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JAN</h1>
+<h1 align="center">Hi, I'm JAN</h1>
 <h3 align="center">Future richest person in the world 💰 (Richer than Elon Musk)</h3>
 
 <p align="center">
