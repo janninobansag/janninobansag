@@ -32,7 +32,7 @@
         <br/>
         <sub>Unity Game</sub>
         <br/><br/>
-      </td>
+       </td>
       <td align="center" width="200">
         <br/>
         🍷
@@ -41,7 +41,7 @@
         <br/>
         <sub>React App</sub>
         <br/><br/>
-      </td>
+       </td>
     </tr>
   </table>
   
@@ -62,6 +62,28 @@
   | 🔥 MINDSET | 🎯 GOAL | 👑 DESTINY |
   |:---:|:---:|:---:|
   | Never full | The top | Richest alive |
+  
+</div>
+
+---
+
+### 📫 CONNECT WITH ME
+
+<div align="center">
+  
+  <a href="mailto:janninobansag@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-janninobansag%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://www.facebook.com/janninoandrie.bansag">
+    <img src="https://img.shields.io/badge/FACEBOOK-Jannino%20Andrie%20Bansag-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/jan_nandrie/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@jan__nandrie-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   
 </div>
 
