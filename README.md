@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm JAN</h1>
+<h1 align="center">Hi 👋, I'm JAN</h1>
 <h3 align="center">Future richest person in the world 💰 (Richer than Elon Musk)</h3>
 
 <p align="center">
@@ -16,14 +16,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💪 My Mindset
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=gold&icon_color=gold" alt="GitHub Stats" />
+  <i>"I don't chase dreams. I catch them and put them to work."</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&ring=gold&fire=gold" alt="Streak Stats" />
+  <b>🚀 1% richer every day</b><br/>
+  <b>🎯 Never settle</b><br/>
+  <b>👑 Only the top spot</b>
 </p>
 
 ---
@@ -35,20 +37,14 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🎯 2026 Goals
+### 📈 Current Focus
 
-- ✅ Finish Whispers of Darkness
-- ✅ Launch Wine Shop
-- ✅ Become richest person alive
-
----
-
-<p align="center">
-  <b>"Dream big. Work harder. Stay hungry."</b>
-  <br/>
-  — JAN 👑
-</p>
+```text
+🎮 Whispers of Darkness    ████████░░░  70%
+🍷 Wine Shop               ██████░░░░░  50%
+💰 World Domination        █░░░░░░░░░░  10%
