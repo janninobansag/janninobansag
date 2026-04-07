@@ -42,6 +42,15 @@
         <sub>React App</sub>
         <br/><br/>
        </td>
+        <td align="center" width="200">
+        <br/>
+        🎬
+        <br/>
+        <b>Ember</b>
+        <br/>
+        <sub>React App</sub>
+        <br/><br/>
+       </td>
     </tr>
   </table>
   
