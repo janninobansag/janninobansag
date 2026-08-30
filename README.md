@@ -1,6 +1,6 @@
 <div align="center">
 
-# JN bansag
+# Hi, I'm Jan.
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=A9A9A9&center=true&vCenter=true&width=500&lines=building+small+things...;breaking+them...;fixing+them+out+of+spite." alt="Typing SVG" />
 
