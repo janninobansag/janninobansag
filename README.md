@@ -71,7 +71,7 @@
       <a href="https://github.com/janninobansag/game">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=game&amp;theme=github_dark&amp;hide_border=true" />
-          <img width="280" alt="VAREN, Filipino folk-horror game made in Unity" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=game&amp;theme=default&amp;hide_border=true" />
+          <img width="400" alt="VAREN, Filipino folk-horror game made in Unity" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=game&amp;theme=default&amp;hide_border=true" />
         </picture>
       </a>
     </td>
@@ -79,33 +79,35 @@
       <a href="https://github.com/janninobansag/Agapay">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Agapay&amp;theme=github_dark&amp;hide_border=true" />
-          <img width="280" alt="Agapay, a community issue reporting and response platform" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Agapay&amp;theme=default&amp;hide_border=true" />
-        </picture>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/janninobansag/Ai-Assistant">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Ai-Assistant&amp;theme=github_dark&amp;hide_border=true" />
-          <img width="280" alt="AI Study Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Ai-Assistant&amp;theme=default&amp;hide_border=true" />
+          <img width="400" alt="Agapay, a community issue reporting and response platform" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Agapay&amp;theme=default&amp;hide_border=true" />
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/janninobansag/Haruka-M">
+      <a href="https://github.com/janninobansag/Ai-Assistant">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Haruka-M&amp;theme=github_dark&amp;hide_border=true" />
-          <img width="280" alt="Haruka M movie streaming platform" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Haruka-M&amp;theme=default&amp;hide_border=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Ai-Assistant&amp;theme=github_dark&amp;hide_border=true" />
+          <img width="400" alt="AI Study Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Ai-Assistant&amp;theme=default&amp;hide_border=true" />
         </picture>
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/janninobansag/Haruka-M">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Haruka-M&amp;theme=github_dark&amp;hide_border=true" />
+          <img width="400" alt="Haruka M movie streaming platform" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Haruka-M&amp;theme=default&amp;hide_border=true" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/janninobansag/WineShop">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=WineShop&amp;theme=github_dark&amp;hide_border=true" />
-          <img width="280" alt="WineShop interactive 3D e-commerce project" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=WineShop&amp;theme=default&amp;hide_border=true" />
+          <img width="400" alt="WineShop interactive 3D e-commerce project" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=WineShop&amp;theme=default&amp;hide_border=true" />
         </picture>
       </a>
     </td>
@@ -113,7 +115,7 @@
       <a href="https://github.com/janninobansag/Gearantee">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Gearantee&amp;theme=github_dark&amp;hide_border=true" />
-          <img width="280" alt="Gearantee C-sharp project" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Gearantee&amp;theme=default&amp;hide_border=true" />
+          <img width="400" alt="Gearantee C-sharp project" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Gearantee&amp;theme=default&amp;hide_border=true" />
         </picture>
       </a>
     </td>
