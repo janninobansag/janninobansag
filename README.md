@@ -63,82 +63,43 @@
   <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake.svg?v=2" />
 </picture>
 
-### &#x1F3AE; Tiny Quest: Ship It Before 3 AM
+<h3 align="left">Featured Projects</h3>
 
-<details>
-<summary>&#x25B6; Start the mini adventure</summary>
+<div align="center">
+<a href="https://github.com/janninobansag/game">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=game&amp;theme=github_dark&amp;hide_border=true" />
+    <img height="165" alt="VAREN, a Filipino folk-horror game built with Unity" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=game&amp;theme=default&amp;hide_border=true" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://github.com/janninobansag/ASCII-Braille-Art-Generator">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=ASCII-Braille-Art-Generator&amp;theme=github_dark&amp;hide_border=true" />
+    <img height="165" alt="ASCII and Braille art generator" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=ASCII-Braille-Art-Generator&amp;theme=default&amp;hide_border=true" />
+  </picture>
+</a>
+</div>
 
-`ENERGY 1/3  |  BUGS 3  |  DEADLINE 03:00`
+<h3 align="left">GitHub Stats</h3>
 
-It's 2:47 AM. The build is red, the coffee is gone, and one tiny thing is keeping the project from shipping.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=janninobansag&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
+  <img height="165" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=janninobansag&amp;show_icons=true&amp;hide_border=true&amp;theme=default" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=janninobansag&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark" />
+  <img height="165" alt="Most used programming languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janninobansag&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default" />
+</picture>
+</div>
 
-**Choose your route:**
+<h3 align="left">Toolbox</h3>
 
-<details>
-<summary>&#x1F6E0;&#xFE0F; Debug the build</summary>
-
-You open the logs. Buried under 46 warnings: a null reference.
-
-<details>
-<summary>&#x1F50E; Read the stack trace and fix the cause</summary>
-
-You find the bad reference, add a guard, and rerun the build.
-
-`BUILD: GREEN  |  BUGS: 0  |  XP: +100`
-
-**Ending unlocked: Shipped with spite.** The sun is coming up. The project is live.
-
-</details>
-
-<details>
-<summary>&#x26A1; Patch it fast and hope</summary>
-
-It works on your machine. Production has other ideas.
-
-`BUILD: ???  |  BUGS: 2  |  XP: +10`
-
-**Ending unlocked: Future Jan's problem.** You left a very detailed TODO.
-
-</details>
-</details>
-
-<details>
-<summary>&#x1F3A8; Open Blender for "just one quick render"</summary>
-
-The model needs one more bevel. And better lighting. And a tiny prop in the background.
-
-<details>
-<summary>&#x2728; Add one last detail</summary>
-
-The render looks incredible. You forgot to press save.
-
-`RENDER: 10/10  |  PROJECT FILE: 0/10`
-
-**Ending unlocked: It was a reference image all along.**
-
-</details>
-
-<details>
-<summary>&#x1F4BE; Save the project before touching anything else</summary>
-
-A rare moment of wisdom. The file is safe, and the render finishes before sunrise.
-
-`BLEND: SAVED  |  RENDER: DONE  |  XP: +80`
-
-**Ending unlocked: One more project, successfully.**
-
-</details>
-</details>
-
-<details>
-<summary>&#x1F634; Close the laptop and sleep</summary>
-
-You wake up rested, fix the bug in ten minutes, and remember what daylight looks like.
-
-`SLEEP: 8 HOURS  |  BUGS: 0  |  XP: unlimited`
-
-**Ending unlocked: The actual speedrun.**
-
-</details>
-
-</details>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,cpp,js,ts,py,html,css,unity,blender,git,github,vscode,visualstudio&amp;theme=dark" />
+  <img alt="C#, C++, JavaScript, TypeScript, Python, HTML, CSS, Unity, Blender, Git, GitHub, VS Code, and Visual Studio" src="https://skillicons.dev/icons?i=cs,cpp,js,ts,py,html,css,unity,blender,git,github,vscode,visualstudio&amp;theme=light" />
+</picture>
+</div>
