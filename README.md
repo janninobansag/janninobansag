@@ -133,5 +133,9 @@
 <h3 align="left">Toolbox</h3>
 
 <div align="center">
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=csharp,cpp,javascript,typescript,python,html,css,unity,blender,git,github,visualstudiocode,visualstudio&amp;width=800" alt="Scrolling toolbox: C#, C++, JavaScript, TypeScript, Python, HTML, CSS, Unity, Blender, Git, GitHub, VS Code, and Visual Studio" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-light.gif" />
+  <img width="680" alt="Scrolling toolbox: C#, C++, JavaScript, TypeScript, Python, HTML, CSS, Unity, Blender, Git, GitHub, VS Code, and Visual Studio" src="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-light.gif" />
+</picture>
 </div>
