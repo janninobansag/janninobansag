@@ -53,12 +53,12 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-jannino.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jannino.vercel.app/)
 [![Email](https://img.shields.io/badge/email-janninobansag%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janninobansag@gmail.com)
 
-### Contribution Snake
+</div>
+
+<h3 align="left">Contributions</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake-dark.svg?v=2" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake.svg?v=2" />
   <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake.svg?v=2" />
 </picture>
-
-</div>
