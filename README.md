@@ -134,8 +134,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-light.gif" />
-  <img width="680" alt="Scrolling toolbox: C#, C++, JavaScript, TypeScript, Python, HTML, CSS, Unity, Blender, Git, GitHub, VS Code, and Visual Studio" src="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-light.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-expanded-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-expanded-light.gif" />
+  <img width="680" alt="Scrolling toolbox: C#, C++, JavaScript, TypeScript, Python, HTML, CSS, React, Next.js, Vite, Express, Tailwind CSS, Node.js, .NET, MongoDB, PostgreSQL, Prisma, Supabase, Unity, Blender, Git, GitHub, VS Code, and Visual Studio" src="https://raw.githubusercontent.com/janninobansag/janninobansag/staging/assets/toolbox-expanded-light.gif" />
 </picture>
+<p><sub>Also: SQL Server · JSON · ASP.NET Core · Entity Framework Core</sub></p>
 </div>
