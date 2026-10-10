@@ -134,7 +134,7 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,cpp,js,ts,py,html,css,unity,blender,git,github,vscode,visualstudio&amp;theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Ccpp%2Cjs%2Cts%2Cpy%2Chtml%2Ccss%2Cunity%2Cblender%2Cgit%2Cgithub%2Cvscode%2Cvisualstudio&amp;theme=dark" />
   <img alt="C#, C++, JavaScript, TypeScript, Python, HTML, CSS, Unity, Blender, Git, GitHub, VS Code, and Visual Studio" src="https://skillicons.dev/icons?i=cs,cpp,js,ts,py,html,css,unity,blender,git,github,vscode,visualstudio&amp;theme=light" />
 </picture>
 </div>
