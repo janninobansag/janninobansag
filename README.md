@@ -10,9 +10,9 @@
 ### Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake.svg" />
-  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake.svg?v=2" />
+  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/janninobansag/janninobansag/output/github-snake.svg?v=2" />
 </picture>
 
 </div>
