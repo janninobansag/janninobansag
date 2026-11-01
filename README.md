@@ -65,70 +65,48 @@
 
 <h3 align="left">Featured Projects</h3>
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/janninobansag/game">🎮 VAREN</a></h3>
+      <p>A Filipino folk-horror game made in Unity. Explore a haunted forest village, uncover its secrets, solve survival puzzles, and face terrifying entities.</p>
+      <p><strong>Built with:</strong> Unity · C#</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/janninobansag/Agapay">🏘️ Agapay</a></h3>
+      <p>A community issue reporting platform that gives residents one place to report local concerns and authorized teams a structured workflow to resolve them.</p>
+      <p><strong>Built with:</strong> Next.js · TypeScript · PostgreSQL · Prisma</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/janninobansag/Ai-Assistant">🤖 AI Study Assistant</a></h3>
+      <p>A mobile-first study workspace that turns class notes into summaries, practice quizzes, and grounded tutor conversations.</p>
+      <p><strong>Built with:</strong> React · TypeScript · Node.js · MongoDB</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/janninobansag/Haruka-M">🎬 Haruka-M</a></h3>
+      <p>A Netflix-inspired movie streaming platform with its own visual identity and curated content experience.</p>
+      <p><strong>Built with:</strong> React · JavaScript · Express · MongoDB</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/janninobansag/WineShop">🍷 WineShop</a></h3>
+      <p>A full-stack wine shop for browsing and purchasing wines, with interactive 3D wine cards, secure authentication, and a shopping cart.</p>
+      <p><strong>Built with:</strong> React · JavaScript · Node.js · MongoDB</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/janninobansag/Gearantee">🏫 Gearantee</a></h3>
+      <p>A campus equipment borrowing and reservation system for managing requests, approvals, returns, and equipment availability.</p>
+      <p><strong>Built with:</strong> C# · ASP.NET Core MVC · SQL Server</p>
+    </td>
+  </tr>
+</table>
 
-<p>
-<a href="https://github.com/janninobansag/game">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=game&amp;theme=github_dark&amp;hide_border=true" />
-    <img width="400" alt="VAREN, Filipino folk-horror game made in Unity" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=game&amp;theme=default&amp;hide_border=true" />
-  </picture>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/janninobansag/Agapay">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Agapay&amp;theme=github_dark&amp;hide_border=true" />
-    <img width="400" alt="Agapay, a community issue reporting and response platform" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Agapay&amp;theme=default&amp;hide_border=true" />
-  </picture>
-</a>
-</p>
+<h3 align="left">GitHub Activity</h3>
 
-<p>
-<a href="https://github.com/janninobansag/Ai-Assistant">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Ai-Assistant&amp;theme=github_dark&amp;hide_border=true" />
-    <img width="400" alt="AI Study Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Ai-Assistant&amp;theme=default&amp;hide_border=true" />
-  </picture>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/janninobansag/Haruka-M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Haruka-M&amp;theme=github_dark&amp;hide_border=true" />
-    <img width="400" alt="Haruka M movie streaming platform" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Haruka-M&amp;theme=default&amp;hide_border=true" />
-  </picture>
-</a>
-</p>
-
-<p>
-<a href="https://github.com/janninobansag/WineShop">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=WineShop&amp;theme=github_dark&amp;hide_border=true" />
-    <img width="400" alt="WineShop interactive 3D e-commerce project" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=WineShop&amp;theme=default&amp;hide_border=true" />
-  </picture>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/janninobansag/Gearantee">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Gearantee&amp;theme=github_dark&amp;hide_border=true" />
-    <img width="400" alt="Gearantee C-sharp project" src="https://github-readme-stats.vercel.app/api/pin/?username=janninobansag&amp;repo=Gearantee&amp;theme=default&amp;hide_border=true" />
-  </picture>
-</a>
-</p>
-
-</div>
-<h3 align="left">GitHub Stats</h3>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=janninobansag&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
-  <img height="165" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=janninobansag&amp;show_icons=true&amp;hide_border=true&amp;theme=default" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=janninobansag&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark" />
-  <img height="165" alt="Most used programming languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janninobansag&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default" />
-</picture>
-</div>
+<p>My contribution activity is shown in the snake animation above. You can also <a href="https://github.com/janninobansag?tab=repositories">browse all my public repositories</a>.</p>
 
 <h3 align="left">Toolbox</h3>
 
