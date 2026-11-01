@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170">
+  <style>
+    .title { font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #0969da; }
+    .body { font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2328; }
+    .meta { font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #57606a; }
+    .label { font-weight: 700; }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #58a6ff; }
+      .body { fill: #e6edf3; }
+      .meta { fill: #c9d1d9; }
+    }
+  </style>
+  <text class="title" x="14" y="30">Gearantee</text>
+  <text class="body" x="14" y="62">A campus equipment borrowing and reservation</text>
+  <text class="body" x="14" y="83">system for requests, approvals, returns, and</text>
+  <text class="body" x="14" y="104">equipment availability.</text>
+  <text class="meta" x="14" y="153"><tspan class="label">Built with:</tspan><tspan> C# · ASP.NET Core MVC · SQL Server</tspan></text>
+</svg>

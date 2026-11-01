@@ -65,44 +65,23 @@
 
 <h3 align="left">Featured Projects</h3>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/janninobansag/game">🎮 VAREN</a></h3>
-      <p>A Filipino folk-horror game made in Unity. Explore a haunted forest village, uncover its secrets, solve survival puzzles, and face terrifying entities.</p>
-      <p><strong>Built with:</strong> Unity · C#</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/janninobansag/Agapay">🏘️ Agapay</a></h3>
-      <p>A community issue reporting platform that gives residents one place to report local concerns and authorized teams a structured workflow to resolve them.</p>
-      <p><strong>Built with:</strong> Next.js · TypeScript · PostgreSQL · Prisma</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/janninobansag/Ai-Assistant">🤖 AI Study Assistant</a></h3>
-      <p>A mobile-first study workspace that turns class notes into summaries, practice quizzes, and grounded tutor conversations.</p>
-      <p><strong>Built with:</strong> React · TypeScript · Node.js · MongoDB</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/janninobansag/Haruka-M">🎬 Haruka-M</a></h3>
-      <p>A Netflix-inspired movie streaming platform with its own visual identity and curated content experience.</p>
-      <p><strong>Built with:</strong> React · JavaScript · Express · MongoDB</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/janninobansag/WineShop">🍷 WineShop</a></h3>
-      <p>A full-stack wine shop for browsing and purchasing wines, with interactive 3D wine cards, secure authentication, and a shopping cart.</p>
-      <p><strong>Built with:</strong> React · JavaScript · Node.js · MongoDB</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/janninobansag/Gearantee">🏫 Gearantee</a></h3>
-      <p>A campus equipment borrowing and reservation system for managing requests, approvals, returns, and equipment availability.</p>
-      <p><strong>Built with:</strong> C# · ASP.NET Core MVC · SQL Server</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/janninobansag/game"><img width="400" alt="VAREN — Filipino folk-horror game made with Unity and C#" src="assets/project-varen.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/janninobansag/Agapay"><img width="400" alt="Agapay — community issue reporting platform built with Next.js, TypeScript, PostgreSQL, and Prisma" src="assets/project-agapay.svg" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/janninobansag/Ai-Assistant"><img width="400" alt="AI Study Assistant — React, TypeScript, Node.js, and MongoDB study workspace" src="assets/project-ai-assistant.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/janninobansag/Haruka-M"><img width="400" alt="Haruka-M — movie streaming platform built with React, JavaScript, Express, and MongoDB" src="assets/project-haruka.svg" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/janninobansag/WineShop"><img width="400" alt="WineShop — interactive wine shop built with React, JavaScript, Node.js, and MongoDB" src="assets/project-wineshop.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/janninobansag/Gearantee"><img width="400" alt="Gearantee — campus equipment borrowing system built with C#, ASP.NET Core MVC, and SQL Server" src="assets/project-gearantee.svg" /></a>
+</p>
 
 <h3 align="left">GitHub Activity</h3>
 
